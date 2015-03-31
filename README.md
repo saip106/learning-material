@@ -7,4 +7,6 @@ This is a collection of various links that helped me. Hopefully you will find th
 
 ## SOA/Microservices/Event Driven Design
 ----------------------------------------
-[Microservices: It's not the size that matters](https://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) - It's a 5 part series
+* [Microservices: It's not the size that matters](https://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) - It's a 5 part series
+* [Life beyond distributed transactions](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf)
+* [Fallacies of distributed computing explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
