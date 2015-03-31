@@ -17,7 +17,7 @@ Web Components
 --------------
 * [Web Components & the Future of CSS](https://www.youtube.com/watch?v=QHxrr6Q82yI)
 
-Event Driven Architecture / SOA
------------------------------
+Event Driven Architecture / SOA / Microservices
+-----------------------------------------------
 * [Event-Driven Architecture (EDA), SOA, and DDD with Udi Dahan](https://vimeo.com/57644944)
 * [Event Driven Architecture by Chris Patterson](http://www.drowningintechnicaldebt.com/ShawnWeisfeld/archive/2010/02/04/event-driven-architecture-by-chris-patterson-north-dallas-.net.aspx)
